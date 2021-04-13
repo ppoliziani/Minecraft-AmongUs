@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinecraftAmongUs:jar">
+    <output-path>$USER_HOME$/Desktop/MinecraftAmongUs/plugins</output-path>
+    <root id="archive" name="Minecraft-AmongUs.jar">
+      <element id="module-output" name="Minecraft-AmongUs" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/MinecraftAmongUs/paper.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

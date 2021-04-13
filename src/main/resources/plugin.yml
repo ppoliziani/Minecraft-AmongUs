@@ -1,0 +1,21 @@
+name: MinecraftAmongUs
+version: ${project.version}
+main: com.dapzi.amongus.Main
+api-version: 1.13
+authors: [dapzi]
+description: Among Us plugin for minecraft
+commands:
+  test:
+    description: test command
+  listp:
+    description: list players
+  kill:
+    descripton: kills the sending player
+  start:
+    description: start
+  lights:
+    description: blinds players
+  doors:
+    description: doors
+  gui:
+    description: gui
